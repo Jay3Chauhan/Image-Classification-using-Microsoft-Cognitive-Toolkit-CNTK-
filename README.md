@@ -12,15 +12,14 @@ This tutorial will address solving such problems. We will show how to train, eva
 
 The key steps required to deliver this solution are as follows:
 
-Generate an annotated image dataset. Alternatively, the provided demo dataset can be used.
-Train an image classifier using a pre-trained Deep Neural Network.
-Evaluate and improve accuracy of this model.
-Deploy the model as a REST API, either to the local machine or to the cloud.
-Key components needed to run this example
-An Azure account (free trials are available).
-An installed copy of Azure Machine Learning Workbench with a workspace created.
-A machine or VM running Windows.
-A dedicated GPU is recommended, however not required.
-Data/Telemetry
-This sample "Image Classification using CNTK" collects usage data and sends it to Microsoft to help improve our products and services. Read our privacy statement to learn more.
+1)Generate an annotated image dataset. Alternatively, the provided demo dataset can be used.
+2)Train an image classifier using a pre-trained Deep Neural Network.
+3)Evaluate and improve accuracy of this model.
+4)Deploy the model as a REST API, either to the local machine or to the cloud.
+
+# Key components needed to run this example
+1)An Azure account.
+2)An installed copy of Azure Machine Learning Workbench with a workspace created.
+3)A machine or VM running Windows.
+4)A dedicated GPU is recommended, however not required.
 
