@@ -2,7 +2,10 @@
 
 
 
-Overview
+# Overview
+
+
+
 A large number of problems in the computer vision domain can be solved using image classification approaches. These include building models which answer questions such as, "Is an OBJECT present in the image?" (where OBJECT could for example be "dog", "car", "ship", etc.) as well as more complex questions, like "What class of eye disease severity is evinced by this patient's retinal scan?"
 
 This tutorial will address solving such problems. We will show how to train, evaluate and deploy your own image classification model using the Microsoft Cognitive Toolkit (CNTK) for deep learning. Example images are provided, but the reader can also bring their own dataset and train their own custom models.
